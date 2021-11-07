@@ -5,8 +5,14 @@
     "email": "imaul7853@gmail.com"
   },
   "description": "Ini adalah project sertification back end saya menggunakan node js",
+  "keywords": [
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "1.0",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "2.14.0"
   },
   "main": "server.js",
   "scripts": {
